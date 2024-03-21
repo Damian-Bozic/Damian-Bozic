@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning at 42 Warsaw
 - 💞️ I’m looking to collaborate on code and maybe gamedev at some point
 - 📫 How to reach me: damian.bozic2@gmail.com
-- ⚡ Fun fact: I am a certified in wood joinery!
+- ⚡ Fun fact: I am certified in wood joinery!
